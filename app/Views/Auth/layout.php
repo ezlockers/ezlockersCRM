@@ -16,9 +16,6 @@
    <style>
         body {
             padding-top: 5rem;
-            .img-circle {
-                border-radius: 1%!important;
-                }
         }
     </style>
 
